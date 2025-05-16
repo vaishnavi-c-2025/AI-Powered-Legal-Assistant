@@ -1,1 +1,1 @@
-# AI-powered-Legal-Assistant
+# AI-Powered-Legal-Assistant
